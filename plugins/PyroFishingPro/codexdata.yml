@@ -1,0 +1,381 @@
+Bronze:
+  '1':
+    Total: 60
+    FirstCaught: Ivan_Duner
+  '2':
+    Total: 3
+    FirstCaught: Ivan_Duner
+  '3':
+    Total: 7
+    FirstCaught: ''
+  '4':
+    Total: 3
+    FirstCaught: ''
+  '5':
+    Total: 69
+    FirstCaught: Fiwlipp
+  '6':
+    Total: 52
+    FirstCaught: Ivan_Duner
+  '7':
+    Total: 49
+    FirstCaught: Ivan_Duner
+  '8':
+    Total: 1
+    FirstCaught: ''
+  '9':
+    Total: 4
+    FirstCaught: ''
+  '10':
+    Total: 7
+    FirstCaught: ''
+  '11':
+    Total: 4
+    FirstCaught: ''
+  '12':
+    Total: 2
+    FirstCaught: ''
+  '13':
+    Total: 4
+    FirstCaught: ''
+  '14':
+    Total: 73
+    FirstCaught: Ivan_Duner
+  '15':
+    Total: 59
+    FirstCaught: Fiwlipp
+  '16':
+    Total: 2
+    FirstCaught: ''
+  '17':
+    Total: 65
+    FirstCaught: Ivan_Duner
+  '18':
+    Total: 4
+    FirstCaught: ''
+  '19':
+    Total: 68
+    FirstCaught: Ivan_Duner
+  '20':
+    Total: 7
+    FirstCaught: ''
+  '21':
+    Total: 4
+    FirstCaught: ''
+  '22':
+    Total: 9
+    FirstCaught: ''
+  '23':
+    Total: 3
+    FirstCaught: ''
+  '24':
+    Total: 63
+    FirstCaught: Fiwlipp
+  '25':
+    Total: 68
+    FirstCaught: Fiwlipp
+  '26':
+    Total: 3
+    FirstCaught: ''
+  '27':
+    Total: 0
+    FirstCaught: ''
+  '28':
+    Total: 4
+    FirstCaught: ''
+  '29':
+    Total: 63
+    FirstCaught: Fiwlipp
+  '30':
+    Total: 4
+    FirstCaught: Ivan_Duner
+  '31':
+    Total: 1
+    FirstCaught: ''
+  '32':
+    Total: 4
+    FirstCaught: ''
+  '33':
+    Total: 2
+    FirstCaught: ''
+  '34':
+    Total: 64
+    FirstCaught: Fiwlipp
+Silver:
+  '1':
+    Total: 0
+    FirstCaught: ''
+  '2':
+    Total: 1
+    FirstCaught: Ivan_Duner
+  '3':
+    Total: 31
+    FirstCaught: Fiwlipp
+  '4':
+    Total: 2
+    FirstCaught: Ivan_Duner
+  '5':
+    Total: 39
+    FirstCaught: Ivan_Duner
+  '6':
+    Total: 0
+    FirstCaught: ''
+  '7':
+    Total: 1
+    FirstCaught: ''
+  '8':
+    Total: 1
+    FirstCaught: ''
+  '9':
+    Total: 5
+    FirstCaught: ''
+  '10':
+    Total: 0
+    FirstCaught: ''
+  '11':
+    Total: 2
+    FirstCaught: ''
+  '12':
+    Total: 38
+    FirstCaught: Fiwlipp
+  '13':
+    Total: 30
+    FirstCaught: Ivan_Duner
+  '14':
+    Total: 2
+    FirstCaught: Ivan_Duner
+  '15':
+    Total: 0
+    FirstCaught: ''
+  '16':
+    Total: 29
+    FirstCaught: Fiwlipp
+  '17':
+    Total: 1
+    FirstCaught: ''
+  '18':
+    Total: 39
+    FirstCaught: Ivan_Duner
+  '19':
+    Total: 2
+    FirstCaught: ''
+  '20':
+    Total: 0
+    FirstCaught: ''
+  '21':
+    Total: 4
+    FirstCaught: ''
+Gold:
+  '1':
+    Total: 0
+    FirstCaught: ''
+  '2':
+    Total: 0
+    FirstCaught: ''
+  '3':
+    Total: 0
+    FirstCaught: ''
+  '4':
+    Total: 14
+    FirstCaught: Fiwlipp
+  '5':
+    Total: 12
+    FirstCaught: Fiwlipp
+  '6':
+    Total: 16
+    FirstCaught: Fiwlipp
+  '7':
+    Total: 1
+    FirstCaught: ''
+  '8':
+    Total: 1
+    FirstCaught: ''
+  '9':
+    Total: 1
+    FirstCaught: ''
+  '10':
+    Total: 0
+    FirstCaught: ''
+  '11':
+    Total: 0
+    FirstCaught: ''
+  '12':
+    Total: 11
+    FirstCaught: Ivan_Duner
+  '13':
+    Total: 1
+    FirstCaught: ''
+  '14':
+    Total: 7
+    FirstCaught: Fiwlipp
+  '15':
+    Total: 0
+    FirstCaught: ''
+  '16':
+    Total: 0
+    FirstCaught: ''
+  '17':
+    Total: 0
+    FirstCaught: ''
+  '18':
+    Total: 14
+    FirstCaught: Fiwlipp
+Diamond:
+  '1':
+    Total: 0
+    FirstCaught: ''
+  '2':
+    Total: 2
+    FirstCaught: Fiwlipp
+  '3':
+    Total: 0
+    FirstCaught: ''
+  '4':
+    Total: 3
+    FirstCaught: Ivan_Duner
+  '5':
+    Total: 5
+    FirstCaught: Fiwlipp
+  '6':
+    Total: 0
+    FirstCaught: ''
+  '7':
+    Total: 0
+    FirstCaught: ''
+  '8':
+    Total: 0
+    FirstCaught: ''
+  '9':
+    Total: 0
+    FirstCaught: ''
+  '10':
+    Total: 4
+    FirstCaught: Ivan_Duner
+  '11':
+    Total: 0
+    FirstCaught: ''
+  '12':
+    Total: 0
+    FirstCaught: ''
+  '13':
+    Total: 1
+    FirstCaught: Fiwlipp
+  '14':
+    Total: 0
+    FirstCaught: ''
+  '15':
+    Total: 0
+    FirstCaught: ''
+Platinum:
+  '1':
+    Total: 0
+    FirstCaught: ''
+  '2':
+    Total: 1
+    FirstCaught: Ivan_Duner
+  '3':
+    Total: 0
+    FirstCaught: ''
+  '4':
+    Total: 0
+    FirstCaught: ''
+  '5':
+    Total: 0
+    FirstCaught: ''
+  '6':
+    Total: 0
+    FirstCaught: ''
+  '7':
+    Total: 0
+    FirstCaught: ''
+  '8':
+    Total: 0
+    FirstCaught: ''
+  '9':
+    Total: 0
+    FirstCaught: ''
+  '10':
+    Total: 0
+    FirstCaught: ''
+  '11':
+    Total: 0
+    FirstCaught: ''
+  '12':
+    Total: 1
+    FirstCaught: Ivan_Duner
+  '13':
+    Total: 0
+    FirstCaught: ''
+  '14':
+    Total: 0
+    FirstCaught: ''
+  '15':
+    Total: 0
+    FirstCaught: ''
+  '16':
+    Total: 0
+    FirstCaught: ''
+  '17':
+    Total: 0
+    FirstCaught: ''
+  '18':
+    Total: 1
+    FirstCaught: ''
+  '19':
+    Total: 0
+    FirstCaught: ''
+  '20':
+    Total: 0
+    FirstCaught: ''
+  '21':
+    Total: 1
+    FirstCaught: Ivan_Duner
+  '22':
+    Total: 0
+    FirstCaught: ''
+  '23':
+    Total: 1
+    FirstCaught: Ivan_Duner
+Mythical:
+  '1':
+    Total: 0
+    FirstCaught: ''
+  '2':
+    Total: 0
+    FirstCaught: ''
+  '3':
+    Total: 0
+    FirstCaught: ''
+  '4':
+    Total: 1
+    FirstCaught: Markatak
+  '5':
+    Total: 0
+    FirstCaught: ''
+  '6':
+    Total: 0
+    FirstCaught: ''
+  '7':
+    Total: 0
+    FirstCaught: ''
+  '8':
+    Total: 0
+    FirstCaught: ''
+  '9':
+    Total: 0
+    FirstCaught: ''
+  '10':
+    Total: 0
+    FirstCaught: ''
+  '11':
+    Total: 0
+    FirstCaught: ''
+  '12':
+    Total: 0
+    FirstCaught: ''
+  '13':
+    Total: 1
+    FirstCaught: Ivan_Duner
+  '14':
+    Total: 0
+    FirstCaught: ''
