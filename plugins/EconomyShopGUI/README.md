@@ -1,1 +1,0 @@
-## Only shops folder needed
