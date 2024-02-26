@@ -95,7 +95,7 @@ AutoStart:
   
   #If the tournament should only start if there is a minimum
   #number of players online.
-  MinimumPlayers: 1
+  MinimumPlayers: 0
   
   #How long should the tournaments last normally in seconds?
   Duration: 900
