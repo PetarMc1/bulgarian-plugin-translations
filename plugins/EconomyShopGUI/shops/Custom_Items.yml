@@ -1,0 +1,14 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: PAPER
+        lore:
+        - ''
+        - '&8-----------------------'
+        - '&8Open a ticket in the dscord to redeem'
+        - '&8-----------------------'
+        buy: 10000.0
+        sell: -1.0
+        name: §x§F§F§0§0§0§0§lC§x§F§F§1§D§0§0§lU§x§F§F§3§9§0§0§lS§x§F§F§5§6§0§0§lT§x§F§F§7§3§0§0§lO§x§F§E§8§F§0§0§lM
+          §x§F§E§A§C§0§0§lT§x§F§E§C§8§0§0§lA§x§F§E§E§5§0§0§lG
