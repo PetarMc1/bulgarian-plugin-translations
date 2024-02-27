@@ -1,2 +1,3 @@
-# Plugins
-Private respiratory for me and Minecraft server admins.
+# Translated to Bulgarian
+All Minecraft Plugins that i sue and have the
+languages change option are/will be translated to Bulgarian
