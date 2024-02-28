@@ -216,11 +216,11 @@ GUI:
     Upgrades:
       Misc:
         LUCKY_CHARM: ' По-малко риба'
-        INCREASE_CAPACITY: Допълнителни слотове
-        MaxLevel: Максимално ниво.
+        INCREASE_CAPACITY: Extra Slots
+        MaxLevel: Max level
         OVERCLOCKED: '%'
         EXPERT_DELIVERER: ' По-малко риба'
-        PAY_RISE: x Ентропия
+        PAY_RISE: x Entrophy
       Upgraded: '&7Надградихте &e%name% &7до ниво &3%level%&7.'
       NoEntropy: '&7Нямате достатъчно ентропия за това. Имате нужда от: &c%entropy% &7повече ентропия за това.'
     Misc:
