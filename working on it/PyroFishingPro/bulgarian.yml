@@ -1,4 +1,4 @@
-Items:
+Items: 
   EntropyCrystal:
     Lore:
     - '&7Натисни за да извлечеш &d10,000 Ентропия&7.'
@@ -80,7 +80,7 @@ SeasonalEvents:
     CrabmasBabyName: '&cБебе Коледен Рак'
     CrabmasName: '&c&lКоледен Рак'
     AlreadyUsedOrb: '&7Вече e използвano кълбо и следващият &cКоледен Рак&7 ще e босът.'
-  Names:
+   Names:
     CRABMAS: Рачешка Коледа
 GUI:
   Codex:
