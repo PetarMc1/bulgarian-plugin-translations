@@ -202,7 +202,7 @@ GUI:
         - '§7- Цена на надграждане: §3%cost%'
         - '§7- Максимално ниво: §3%maxlevel%'
         - ''
-        - §7Щракнете за надграждане.
+        - '§7Щракнете за надграждане.'
       OVERCLOCKED:
         Name: '&7Надстройка: &eОвърклокнат'
         Lore:
@@ -250,12 +250,12 @@ GUI:
       Delete: '&7Натисни &9Shift &7 и &9Десен Бутон &7 за изтриване на тази доставка.'
     Info:
       Lore:
-      - „&7Доставките са един от ключовите начини за“
+      - '&7Доставките са един от ключовите начини за'
       - '&7печелене на пари и &fентропия&7!'
       - '&7Можете да намериш доставки на всеки &6180'
       - '&7рибаи, която уловиш.'
       - ''
-      - „&7Доставките изискват различна риба, така че да направи“
+      - '&7Доставките изискват различна риба, така че да направи'
       - '&7рибата търговима между играчи!'
       - ''
       - '&7Има надстройки в долната част, които'
@@ -406,10 +406,8 @@ GUI:
         Active:
         - ''
         - '&a&lACTIVE'
-        PurchasedSlot: '&7You have purchased another &epassive slot &7and now have
-          &b%slots% &7slots&7.'
-        NoItemsForNewSlot: '&7You do not have enough &5Mythical Fish &7or &cPlatinum
-          Fish &7to purchase another &epassive slot&7'
+        PurchasedSlot: '&7You have purchased another &epassive slot &7and now have &b%slots% &7slots&7.'
+        NoItemsForNewSlot: '&7You do not have enough &5Mythical Fish &7or &cPlatinum Fish &7to purchase another &epassive slot&7'
         AlreadyActive: '&7This passive is already enabled.'
     InUse:
       Name: '&cTotem Active &7| &c%time%'
@@ -462,10 +460,8 @@ GUI:
     Messages:
       UpgradedSkill: '&7You have upgraded the Skill &b%name% &7to Level: &3%level%&7.'
       Skill:
-        BETTER_GUTTING: '&7You gutted &3%fish% &7fish and earned &3%entropy% &7entropy.
-          (&b+%bonus% &7bonus entropy from skills).'
-        AUGMENT_INFUSION: '&7Your &bAugment Infusion &7skill refunded some of the
-          crafting materials.'
+        BETTER_GUTTING: '&7You gutted &3%fish% &7fish and earned &3%entropy% &7entropy. (&b+%bonus% &7bonus entropy from skills).'
+        AUGMENT_INFUSION: '&7Your &bAugment Infusion &7skill refunded some of the crafting materials.'
       PurchasedSkill: '&7You have purchased the Skill &b%name%&7.'
       NoPoints: '&7You do not have enough points to upgrade/unlock this skill.'
       NonUpgradableAlreadyOwned: '&7This skill can only be purchased once and is upgraded
