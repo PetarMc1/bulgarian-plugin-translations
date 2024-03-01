@@ -6,34 +6,34 @@
 # %converted is the number of vaults converted (where applicable)
 # Made with love :)
 title-name: '&4[&fPlayerVaults&4]:'
-open-vault: '&fOpening vault &a%v'
-open-other-vault: '&fOpening vault &a%v &fof &a%p'
-open-workbench: '&fOpening workbench'
-delete-vault: '&fDeleted vault &a%v'
-delete-other-vault: '&fDeleted vault &a%v &fof &a%p'
-player-only: '&cSorry but that can only be run by a player!'
-must-be-number: '&cYou need to specify a number between 1-99'
-invalid-args: '&cInvalid args!'
-delete-vault-error: '&cError deleting vault :('
-no-permissions: '&cYou don''t have permission for that!'
-insufficient-funds: '&cYou don''t have enough money for that!'
-refund-amount: '&fYou were refunded &a%price &ffor deleting that vault.'
-cost-to-create: '&fYou were charged &c%price &ffor creating that vault.'
-cost-to-open: '&fYou were charged &c%price &ffor opening that vault.'
-vault-number: '&4Vault #%number'
-existing-vaults: '&f%p has vaults: &a%v'
-no-player-found: '&cCannot find player &a%p'
-plugin-not-found: '&cNo converter found for that plugin'
-conversion-complete: '&aConverted %converted players to PlayerVaults'
-conversion-background: '&fConversion has been forked to the background. See console
-  for updates.'
+open-vault: '&fОтваряне на сейф &a%v'
+open-other-vault: '&fОтваряне на сейф &a%v &fна &a%p'
+open-workbench: '&fОтваряне на работна маса'
+delete-vault: '&fИзтрит сейф&a%v'
+delete-other-vault: '&fИзтрит сейф &a%v &fна &a%p'
+player-only: '&cТази команда може да се ползва само от играчи!'
+must-be-number: '&cТрябва да избереш число между 1-99'
+invalid-args: '&cНежалидни аргументи!'
+delete-vault-error: '&cГрешка в изтриването на сейфа'
+no-permissions: '&cНямаш разрешение за това!'
+insufficient-funds: '&cНямаш достатъчно пари!'
+refund-amount: '&fБяха ти върнати &a%price &fот изтриване на сейфа.'
+cost-to-create: '&fБяха взети &c%price &fза създаването на този сейф.'
+cost-to-open: '&fYou were charged &c%price &ffor opening that vault.' # Not using this so no need to translate it!
+vault-number: '&4Сейф номер %number'
+existing-vaults: '&f%p има &a%v &fсейфа'
+no-player-found: '&cНе може да се намери играч &a%p'
+plugin-not-found: '&cNo converter found for that plugin' # Not using this so no need to translate it!
+conversion-complete: '&aConverted %converted players to PlayerVaults' # Not using this so no need to translate it!
+conversion-background: '&fConversion has been forked to the background. See console  
+  for updates.'  # Not using this so no need to translate it!
 vaults-locked: '&cVaults are currently locked while conversion occurs. Please try
-  again in a moment!'
-help: /pv <number>
-blocked-item: '&6%m &cis blocked from vaults.'
-vault-does-not-exist: '&cThat vault does not exist!'
-click-a-sign: '&fNow click a sign!'
-not-a-sign: '&cYou must click a sign!'
-set-sign-success: '&fYou have successfully set a PlayerVault access sign!'
-vault-title: '&4Vault #%number'
-open-with-sign: '&fOpening vault &a%v &fof &a%p'
+  again in a moment!' # Not using this so no need to translate it!
+help: /pv <номер>
+blocked-item: '&6%m &cе блокиран от сейфовете!'
+vault-does-not-exist: '&cTози сейф не съществува!'
+click-a-sign: '&fНатисни табелата!'
+not-a-sign: '&cТрябва да натиснеш табела!'
+set-sign-success: '&fТи направи PlayerVaults табела!'
+vault-title: '&4Сейф номер %number'
+open-with-sign: '&fотваряне на сейф &a%v &fна &a%p'
