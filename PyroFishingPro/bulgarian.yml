@@ -707,18 +707,18 @@ GUI:
     - '&7Изкормена риба: &a%FishGutted%'
     - '&7Направени доставки: &a%DeliveriesMade%'
     - ''
-    - '&7Изработени подобрения: &a%Изработени увеличения%'
-    - '&7Убита риба: &a%Убита риба%'
+    - '&7Изработени подобрения: &a%AugmentsCrafted%'
+    - '&7Убита риба: &a%FishKilled%'
     - '&7Най-дълга риба: &a%LongestFish%'
     - ''
-    - '&7 спечелени турнира: &a%спечелени турнири%'
+    - '&7 спечелени турнира: &a%TournamentsWon%'
     Stats2:
     - '&7Ниво: &a%Level%'
     - '&7Точки за Умения: &a%SkillPoints%'
     - '&7Текущо XP: &a%CurrentXP%'
     - '&7Необходимо XP: &a%RequiredXP%'
     - '&7Ентропия: &a%Entropy%'
-    GeneralStats: '&3&LОбщи Статистики'
+    GeneralStats: '&3Общи Статистики'
     SkillTree: '&b&lДърво на уменията'
   FishBag:
     InfoEmerald:
