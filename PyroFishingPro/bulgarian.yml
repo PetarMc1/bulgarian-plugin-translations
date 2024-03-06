@@ -737,3 +737,120 @@ GUI:
       - '&7изисква се при започване на доставки.'
       - ''
       - '&7Статус: %status%'
+  Totem:
+    Unlock:
+      NotLevelNew: '&7Това е усъвършенстван елемент който в момента не разбираш.
+        Върни се когато ви на ниво &c20&7.'
+      Unlocked: '&7Отключил си тотема. Провери отново при следващата актуализация за да използваш
+        неговите неща.'
+      NoItems: '&7Нямаш достатъчно елементи за да превърнеш това в &6Риболовен
+        Тотем&7.'
+      Required: '&7Тотем от старата война. Ако го донесеш следните елементи
+        може да успееш да използваш силата му.'
+      NewItems:
+      - '&7 Необходими елементи:'
+      - '&8- &c6x Платинена риба'
+      - '&8- &c16x Люспи от рак'
+      - '&8- &c16x Щипки от рак'
+      - '&8- &c16x Опашки на делфин'
+      - '&8- &c16x Пипала на октопод'
+  Scales:
+    ExtremeRisk:
+      Name: '&b&lИзключителен риск'
+    Risk:
+      Lore:
+      - '&7%risk%-рисково предизвикателство за претегляне.'
+      - '&7'
+      - '&7Информация:'
+      - '&8➤ &7Шанс за печалба: &3%profit%%'
+      - '&8➤ &7Обвързано до &3+-%%moneychange% &7от нормалната цена.'
+    ScaleFish:
+      Name: '&a&lНатисни за да претеглиш'
+      Lore:
+      - '&7Натисни за да претеглиш всичката'
+      - '&7риба която е в менюто по-горе.'
+    Risks:
+      High: Високо
+      Extreme: Екстермно
+      Low: Ниско
+      Medium: Средно
+    LowRisk:
+      Name: '&7&lНисък риск'
+    MediumRisk:
+      Name: '&f&lСреден риск'
+    Misc:
+      Selected: '&aИЗБРАНО'
+    HighRisk:
+      Name: '&6&lВисок риск'
+  Main:
+    Totem:
+      Lore:
+      - '&7Щракни да видиш твоя тотем.'
+      - '&7&oКакво ще призовеш?'
+      Name: '&b&lТотем'
+    Bait:
+      Lore:
+      - '&7Щракни за да видиш магазина за стръв.'
+      - '&7&oКакво ще уловиш?'
+      Name: '&9&lМагазин за стръв'
+    Shop:
+      Lore:
+      - '&7Щракни за да отвориш магазина за продажба на риба'
+      - '&7&oПродай всичката си риба!'
+      Name: '&3&lМагазин за продажба на риба'
+    Bag:
+      Name: '&3&lРаница за риба'
+      Lore:
+      - '&7Щракни за да отвориш раницата за риба!'
+      - '&7&oКаква риба си уловил?'
+    Scales:
+      Name: '&b&lПретегляния'
+      Lore:
+      - '&7Натисни за да отвориш кантара!'
+      - '&7&oПоеми риска да я претеглиш за повече пари?!'
+    Deliveries:
+      Name: '&6&lДоставки'
+      NewLore:
+      - '&7Щракни за да отвориш доставките.'
+      - '&7&oИзпълнявай доставки за да перчелиш пари!'
+      - ''
+      - '&7Трябват ти още &3%amount% &7уловени къстъм риби'
+      - '&7за следващата доставка!'
+    NoRod:
+      Lore:
+      - '&7You are not holding a fishing rod.'
+      Name: '&4&lNo Fishing Rod'
+    Skills:
+      Name: '&9&lFishing Skills'
+      Lore:
+      - '&7Click to manage your Fishing Skills.'
+      - '&7&oWhat will you upgrade?'
+    Codex:
+      Name: '&3&lCodex'
+      Lore:
+      - '&7Click to view the codex!'
+      - '&7&oSee what fishes there are!'
+    ChristmasEvent:
+      Name: '&3&lChristmas Event'
+      NewPlaceholderLore:
+      - '&7From now until the &b31st of December'
+      - '&7you can earn presents from every'
+      - '&3400 fish&7 you catch!'
+      - ''
+      - '&7You need &a%fish%&7 more fish until'
+      - '&7your next present.'
+    Augments:
+      Lore:
+      - '&7Click to manage your Fishing Rod Augments.'
+      - '&7&oHow many augments do you have?'
+      Name: '&2&lAugments'
+    Gut:
+      Lore:
+      - '&7Click to open the Fish Gutting Station!'
+      - '&7&oGut fish for Entropy / Items!'
+      Name: '&2&lGutting Station'
+    Stats:
+      Lore:
+      - '&7Click to view your stats!'
+      - '&7&oAre you number one?'
+      Name: '&e&lStats'
