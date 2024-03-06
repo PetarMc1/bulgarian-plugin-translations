@@ -797,7 +797,7 @@ GUI:
       Lore:
       - '&7Щракни за да отвориш магазина за продажба на риба'
       - '&7&oПродай всичката си риба!'
-      Name: '&3&lМагазин за продажба на риба'
+      Name: '&3Магазин за продажба на риба'
     Bag:
       Name: '&3&lРаница за риба'
       Lore:
@@ -818,39 +818,39 @@ GUI:
       - '&7за следващата доставка!'
     NoRod:
       Lore:
-      - '&7You are not holding a fishing rod.'
-      Name: '&4&lNo Fishing Rod'
+      - '&7Не държиш видица.'
+      Name: '&4&Нямаш въдица'
     Skills:
-      Name: '&9&lFishing Skills'
+      Name: '&9&lУмения'
       Lore:
-      - '&7Click to manage your Fishing Skills.'
-      - '&7&oWhat will you upgrade?'
+      - '&7Щракни за да отвориш менюто с умения.'
+      - '&7&oКакво ще надградиш?'
     Codex:
-      Name: '&3&lCodex'
+      Name: '&3&lКодекс'
       Lore:
-      - '&7Click to view the codex!'
-      - '&7&oSee what fishes there are!'
+      - '&7Щракни за да отвориш кодекса!'
+      - '&7&oВиж какви риби има!'
     ChristmasEvent:
-      Name: '&3&lChristmas Event'
+      Name: '&3&lКоледно събитие'
       NewPlaceholderLore:
-      - '&7From now until the &b31st of December'
-      - '&7you can earn presents from every'
-      - '&3400 fish&7 you catch!'
+      - '&7От сега до &b31st Декември'
+      - '&7може да печелиш подаръци за всеки'
+      - '&3400 риби &7които уловиш!'
       - ''
-      - '&7You need &a%fish%&7 more fish until'
-      - '&7your next present.'
+      - '&7Трябват ти още &a%fish%&7 риба'
+      - '&7за следващия подарък.'
     Augments:
       Lore:
-      - '&7Click to manage your Fishing Rod Augments.'
-      - '&7&oHow many augments do you have?'
-      Name: '&2&lAugments'
+      - '&7Шракни за да отвориш менюто с усилвания.'
+      - '&7&oКолко усилвания имаш?'
+      Name: '&2&lУсилвния'
     Gut:
       Lore:
-      - '&7Click to open the Fish Gutting Station!'
-      - '&7&oGut fish for Entropy / Items!'
-      Name: '&2&lGutting Station'
+      - '&7Щракни за да отвориш Станцията за изкормване!'
+      - '&7&oИзкорми риба за ентропия!'
+      Name: '&2&lСтанция за изкормване'
     Stats:
       Lore:
-      - '&7Click to view your stats!'
-      - '&7&oAre you number one?'
-      Name: '&e&lStats'
+      - '&7Щракни за да си видиш статистиките!'
+      - '&7&oНомер 1 ли си?'
+      Name: '&e&lСтатистики'
