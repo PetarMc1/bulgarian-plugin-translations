@@ -19,16 +19,16 @@ no-permissions: '&cНямаш разрешение за това!'
 insufficient-funds: '&cНямаш достатъчно пари!'
 refund-amount: '&fБяха ти върнати &a%price &fот изтриване на сейфа.'
 cost-to-create: '&fБяха взети &c%price &fза създаването на този сейф.'
-cost-to-open: '&fYou were charged &c%price &ffor opening that vault.' # Not using this so no need to translate it!
+cost-to-open: '&fYou were charged &c%price &ffor opening that vault.' #Not using this so no need to translate it!
 vault-number: '&4Сейф номер %number'
 existing-vaults: '&f%p има &a%v &fсейфа'
 no-player-found: '&cНе може да се намери играч &a%p'
-plugin-not-found: '&cNo converter found for that plugin' # Not using this so no need to translate it!
-conversion-complete: '&aConverted %converted players to PlayerVaults' # Not using this so no need to translate it!
+plugin-not-found: '&cNo converter found for that plugin' #Not using this so no need to translate it!
+conversion-complete: '&aConverted %converted players to PlayerVaults' #Not using this so no need to translate it!
 conversion-background: '&fConversion has been forked to the background. See console  
-  for updates.'  # Not using this so no need to translate it!
+  for updates.'  #Not using this so no need to translate it!
 vaults-locked: '&cVaults are currently locked while conversion occurs. Please try
-  again in a moment!' # Not using this so no need to translate it!
+  again in a moment!' #Not using this so no need to translate it!
 help: /pv <номер>
 blocked-item: '&6%m &cе блокиран от сейфовете!'
 vault-does-not-exist: '&cTози сейф не съществува!'
