@@ -1,5 +1,5 @@
 # Inventory Rollback Plus
-Fully translated / Напълно преведен.
+Fully translated. / Напълно преведен.
 ## (EN) How to use the translated file
 - Deleate the original `messages.yml` file
 - Download the [messages,yml](messages.yml) from here
