@@ -85,14 +85,13 @@ SeasonalEvents:
     CRABMAS: Рачешка Коледа
 Augments:
   Misc:
-    NoAugment: '&7Please use an Augment in the second slot instead of your current
-      item.'
-    AddedAugment: '&7You have added the Augment ''%augment%&7'' and it is now level
+    NoAugment: '&7Моля сложи добавката на следващия слот.'
+    AddedAugment: '&7Ти успешно приложи Увеличение ''%augment%&7'' и то е ниво
       %color%%level%&7. %maxlevel%'
     RemovalNoAugments: '&7There are no augments on your current item!'
     AppliesTo:
-      FISHING_ROD: Fishing Rod
-    NoCraftingPermission: '&7You do not have &cpermission &7to craft %augment%&7.'
+      FISHING_ROD: Въдица
+    NoCraftingPermission: '&7Нямаш &cразрешение &7да създадеш %augment%&7.'
     PerItem: '&7- %color%%amount%x %item%'
     Lore:
       Item: '&7» %color%%amount%x &7%item%'
@@ -100,18 +99,18 @@ Augments:
       - '%color%Crafting Recipe:'
       - '%items%'
       - ''
-      - '&7Drop these into a cauldron to craft!'
-    MaxLevelAdded: '&7(&bmax level&7)'
-    Cooldown: '&7You must wait at least &c1 second &7before doing this again.'
-    Entropy: '&7You cannot craft that item. You need &c%entropy%&7 more entropy.'
-    RemovedAugments: '&7You have removed all the augments from your current item.'
-    NoValidRecipe: '&7The items you have dropped do not match any valid augment recipe.'
-    Crafted: '&7You crafted %name% &7and spent &3%cost% &7entropy.'
+      - '&7Пусни тези предмети в казан за да изработиш усилването!'
+    MaxLevelAdded: '&7(&bмаксимално ниво&7)'
+    Cooldown: '&7Трябва да изчакаш поне &c1 секунда &7преди да направиш това отново.'
+    Entropy: '&7Не може да изработиш това. Трябва ти още &c%entropy%&7 Ентропия.'
+    RemovedAugments: '&7Успешно премахна всички увеличения от въдицата ти.'
+    NoValidRecipe: '&7Предметите не се съвпадат с нито една от рецептите.'
+    Crafted: '&7Ти изработи %name% &7и изхарчи &3%cost% &7Ентропия.'
     RemoveEntropyOnApply:
-      Removed: '&7You have spent &b%entropy% &7to apply that augment.'
-      Failed: '&7You do not have enough entropy to add all of these augments. You
-        need at least &c%entropy% &7for this!'
-    NotHighEnoughLevel: '&7You are not a high enough level to craft that Augment.'
+      Removed: '&7Ти изхарчи &b%entropy% &7за да приожиш това усилване.'
+      Failed: '&7Нямаш достатъчно Ентропия да приложиш всички тези усилвания. Трябва ти
+        поне &c%entropy% &7Ентропия!'
+    NotHighEnoughLevel: '&7Не си достатъчно високо ниво за да изработваш това Усилване.'
     AugmentDisabled: '&7This augment has been disabled and cannot be crafted.'
     OldRod: '&7Your rod is old and needs to be converted. Please catch a fish and
       it should convert automatically for you.'
@@ -863,7 +862,7 @@ GUI:
       - '&7добавиш усилванята.'
       Name: '&b&lВъдица'
     Info:
-      Name: '&2&lИнформация за Увеличенията'
+      Name: '&2Информация за Увеличенията'
       Lore:
       - '&7Слагай усилвания като сложиш'
       - '&7въдицата си и усилването долу'
