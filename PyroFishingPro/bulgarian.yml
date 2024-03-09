@@ -342,7 +342,7 @@ GUI:
       Name: '&a&lСледваща Страница'
       Lore:
       - '&7Щракни= за да отидеш на следващата страница.'
-AugmentList:
+  AugmentList:
     Back:
       Name: '&cНазад'
       Lore:
