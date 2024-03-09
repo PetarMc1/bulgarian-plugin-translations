@@ -1,5 +1,5 @@
 # Inventory Rollback Plus
-Fully translated / Напълно преведен
+Fully translated. / Напълно преведен.
 ## (EN) How to use the translated file
 - Deleate the original `messages.yml` file
 - Download the [messages,yml](messages.yml) from here
@@ -15,3 +15,4 @@ Fully translated / Напълно преведен
 ## Links
 - [Download Link](https://www.spigotmc.org/resources/inventory-rollback-plus-1-8-1-20-x.85811/)
 - [Developer's Discord server](https://discord.gg/h7qJ9gRCwj)
+- [Developer's GitHub](https://github.com/TechnicallyCoded)
