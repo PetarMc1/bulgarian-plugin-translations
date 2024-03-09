@@ -7,7 +7,6 @@ assignees: PetarMc1
 
 ---
 
-Example: 
-Directory - PyroFishingPro/bulgarian.yml
-Line - 32
-What is wrong - One letter missed
+Directory  / Директория - 
+Line / Ред - 
+What is wrong / Какво е грешно -
