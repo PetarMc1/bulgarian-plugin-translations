@@ -4,13 +4,13 @@ Fully translated. / Напълно преведен.
 - Deleate the original `messages.yml` file
 - Download the [messages.yml](messages.yml) from here
 - Put it in the plugin folder
-- Restart the server
+- Restart the server or reload the plugin
 - You are done :D
 ## (BG) Как да използваш преведиеният файл
 - Изтрий оригиналния `messages.yml` файл
 - Изтегли [messages.yml](messages.yml)
 - Сложи го в папката на плъгина
-- Рестартирай сървъра
+- Рестартирай сървъра или презареди плъгина
 - Готов си :)
 ## Links / Ликове
 - [Download Link](https://www.spigotmc.org/resources/inventory-rollback-plus-1-8-1-20-x.85811/)
