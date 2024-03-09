@@ -16,5 +16,5 @@ Still not translated! / Още не е напълно преведен
 - Готов си :D
 ## Links / Линкове
 - [Pyro's Lab Discord server](https://discord.gg/pyro-s-lab-492655781087543297)
-- [Buy Link](https://www.spigotmc.org/resources/pyrofishingpro-1-14-x-1-20-x-1-fishing-plugin-new-tournament-rework.60729/)
+- [Plugin buy Link](https://www.spigotmc.org/resources/pyrofishingpro-1-14-x-1-20-x-1-fishing-plugin-new-tournament-rework.60729/)
 - [Pyro's Wiki about the plugin](https://pyrotempus.gitbook.io/pyro-plugins/pyrofishingpro/splash-page)
