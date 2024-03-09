@@ -4,13 +4,13 @@ You can find the translated parts in the [bulgarian.yml](bulgarian.yml)
 Still not translated! / Още не е напълно преведен
 ## (EN) How to use the translated version.
 - Delete the default `messages.yml`
-- Copy and paste the `bulgarian.yml` file into the main directory.
+- Download and paste the [bulgarian.yml](bulgarian.yml) plugin folder.
 - Rename it to `messages.yml`
 - Restart the server
 - Good to go :D
 ## (BG) Как да използваш преведения файл
-- Изтрий `messages.yml`
-- Копирай и постави `bulgarian.yml` в главната папка на плъгина.
+- Изтрий оригиналния `messages.yml`
+- Изтегли и постави [bulgarian.yml](bulgarian.yml) в главната папка на плъгина.
 - Преименувай го на `messages.yml`
 - Рестартирай сървъра
 - Готов си :D
