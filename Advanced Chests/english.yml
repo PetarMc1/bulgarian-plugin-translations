@@ -1,0 +1,259 @@
+languages:
+  prefix: '&8[&e&lAdvanced&6&lChests&8]'
+  upgrades:
+    success: '&aThe chest was correctly upgraded&6!'
+    fail: '&cYou do not have enough money to buy this upgrade&6!'
+    new-chest-container-forbidden-location: '&cThe new type of container can not have
+      chests around.'
+  sorts:
+    fail: '&cYou do not have enough money to do this!'
+    anything-to-sort: '&cThere is anything to sort in this chest!'
+    already-sorted: '&cThis chest is already sorted!'
+  smeltings:
+    not-enough-money: '&cYou do not have enough money to smelt this chest'
+    success: '&aYou have smelted this chest correctly!'
+    fail: '&cThis chest does not contain anything to smelt!'
+  compressions:
+    not-enough-money: '&cYou do not have enough money to compress this chest'
+    not-enough-space-to-compress: '&cThere is not enough space to compress this chest!'
+    anything-to-compress: '&cThere is anything to compress in this chest!'
+    success: '&aYou have compressed this chest correctly!'
+    process: '&cThe chest will be compressed in &6%time% &cseconds&6!'
+    openchest-oncompression-fail: '&cThis chest is currently being compressed, please
+      wait...&6!'
+  sells:
+    success: '&aYou have received &e%value%$&a!'
+    fail: '&cThis chest contains nothing for selling&6!'
+    process: '&cThe chest will be sold in &6%time% &cseconds&6!'
+    openchest-onsell-fail: '&cThis chest is currently being sold, please wait...&6!'
+  autosells:
+    claim-money-success: '&aMoney claimed successfully!'
+    claim-money-fail: '&cThis chest does not have enough money to claim!'
+    toggle-fail: '&cYou do not have permissions to toggle this option&6!'
+  search:
+    type-query: '&aPlease type the query of the items you''re searching for!'
+    no-results: '&cNo items were found using the query&6: %query%'
+    found-results:
+      header: '&e&lResults were found in the following pages&6:'
+      result:
+        message: '&7- &6%page% &8(&7Click here to open&8)'
+        hover: '&7Click to open&6!'
+    open-search-fail: '&cYou have to be in the same chest''s chunk to open the page!'
+  permissions:
+    openchest-fail: '&cYou do not have the proper permissions to open this chest&6!'
+    placechest-fail: '&cYou do not have the proper permissions to place this chest&6!'
+    breakchest-fail: '&cYou do not have the proper permissions to break this chest&6!'
+    upgrade-fail: '&cYou do not have the proper permissions to do this upgrade&6!'
+    sort-fail: '&cYou do not have the proper permissions to sort this chest&6!'
+    sell-fail: '&cYou do not have the proper permissions to sell out of this chest&6!'
+    smelt-fail: '&cYou do not have the proper permissions to smelt this chest&6!'
+    compressor-fail: '&cYou do not have the proper permissions to compress this chest&6!'
+    deposit-fail: '&cYou don not have permissions to deposit items inside this chest!'
+  actions:
+    on-break-wait-for-empty-chest-fail: '&cThe chest needs to be empty to break it&6!'
+    chunks-chests-limit-exceeded: '&cThis chunk has reached the maximum amount of
+      AdvancedChests!'
+  shop:
+    inventoryname: '&c&e&lAdvanced&6&lChests'
+    lore-format:
+    - ''
+    - '&7&o((Left click for &aUnit&7&o))'
+    - '&7&o((Right click for &bStack&7&o))'
+    price-format: '&6Price&8: &f%price%&6$'
+    previous:
+      name: '&6&lPrevious'
+      head: MHF_ArrowLeft
+      material: PLAYER_HEAD
+      lore:
+      - ''
+    next:
+      name: '&6&lNext'
+      head: MHF_ArrowRight
+      material: PLAYER_HEAD
+      lore:
+      - ''
+    success: '&aYou have bought correctly&6!'
+    fail: '&cYou do not have enough money to buy this chest&6!'
+    without-inv-space: '&cYou do not have enough space in your inventory&6!'
+    without-perms-to-open: '&cYou do not have permissions&6!'
+  gui:
+    previouspage:
+      name: '&6&lPrevious page'
+      head: MHF_ArrowLeft
+      material: PLAYER_HEAD
+      lore:
+      - ''
+    nextpage:
+      name: '&6&lNext page'
+      head: MHF_ArrowRight
+      material: PLAYER_HEAD
+      lore:
+      - ''
+    go-to-page:
+    - '%input%'
+    - =============
+    - Type the page
+    - number above
+    upgradeicon:
+      material: CHEST
+      head: ''
+      name: '&e&lUpgrade your slots&6&l!'
+      lore:
+      - '&7This upgrade contains a total'
+      - '&7of &6x%size% &7slots'
+      - '&aPrice&e: &6%price%&e$'
+    sorters:
+      inventory-name: '&8Sort the chest!'
+      price-format: '&ePrice&6: &e%price%&6$'
+      sorticon:
+        material: HOPPER
+        head: ''
+        name: '&f&lSort the chest'
+        lore:
+        - '&7Left click &7here to sort this chest'
+        - '&7Right click &7here to see more sorting options'
+      types:
+        byall:
+          material: PLAYER_HEAD
+          head: 1e5924798a487f99ba08e54a5b130692cc586902a87e1dee213813ef8c66
+          name: '&e&lSort by all!'
+          lore:
+          - '&7This sort type includes all in one'
+          - '&7and its the one that comes by default'
+        bymaterial:
+          material: PLAYER_HEAD
+          head: e6799bfaa3a2c63ad85dd378e66d57d9a97a3f86d0d9f683c498632f4f5c
+          name: '&e&lSort by material!'
+          lore:
+          - '&7This sort type will take in count just items materials'
+        byamount:
+          material: PLAYER_HEAD
+          head: c3687e25c632bce8aa61e0d64c24e694c3eea629ea944f4cf30dcfb4fbce071
+          name: '&e&lSort by amount!'
+          lore:
+          - '&7This sort type will take in count just items amounts'
+        bydamage:
+          material: PLAYER_HEAD
+          head: c3d14561bbd063f70424a8afcc37bfe9c74562ea36f7bfa3f23206830c64faf1
+          name: '&e&lSort by damage!'
+          lore:
+          - '&7This sort type will take in count just items durabilities'
+      back:
+        material: PLAYER_HEAD
+        head: MHF_ArrowLeft
+        name: '&6&lBack'
+        lore:
+        - ''
+    sells:
+      sellicon:
+        name: '&c&lSell All'
+        material: PLAYER_HEAD
+        head: MrSnowDK
+        lore:
+        - '&7Click here to sell all the content'
+        - ''
+        - '&f&lMultiplier&7: &e%multiplier%&6x'
+    smeltericon:
+      material: PLAYER_HEAD
+      head: MCadir1
+      name: '&4&lSmelt items!'
+      price-format: '&ePrice&6: &e%price%&6$'
+      lore:
+      - '&7Click here to smelt all the chest content!'
+    compressoricon:
+      material: PLAYER_HEAD
+      head: 9a1057aeb571b23c907284f907f51a1f18530d731a8adac02c791aa205b56c1e
+      name: '&f&lCompress items!'
+      price-format: '&ePrice&6: &e%price%&6$'
+      lore:
+      - '&7Click here to compress all the chest content!'
+    break-confirmation:
+      inventoryname: '&c&lRemove the Chest...'
+      confirmicon:
+        material: BARRIER
+        head: ''
+        name: '&cBreak this chest!'
+        lore:
+        - '&7Click to break this chest!'
+    upgrade-confirmation:
+      inventoryname: '&8Confirm your upgrade!'
+      confirmicon:
+        material: CHEST
+        head: ''
+        name: '&e&lUpgrade!'
+        lore:
+        - '&7Click here to confirm your upgrade!'
+    sell-confirmation:
+      inventoryname: '&8Confirm your sell!'
+      confirmicon:
+        material: PLAYER_HEAD
+        head: MrSnowDK
+        name: '&c&lSell the content!'
+        lore:
+        - '&7Click here to confirm your sell intention!'
+    smelt-confirmation:
+      inventoryname: '&8Confirm your smelt!'
+      confirmicon:
+        material: PLAYER_HEAD
+        head: MCadir1
+        name: '&6&lSmelt the content!'
+        lore:
+        - '&7Click here to confirm your smelt intention!'
+    compress-confirmation:
+      inventoryname: '&8Confirm your compression!'
+      confirmicon:
+        material: PLAYER_HEAD
+        head: 9a1057aeb571b23c907284f907f51a1f18530d731a8adac02c791aa205b56c1e
+        name: '&f&lCompress the content!'
+        lore:
+        - '&7Click here to confirm your compress intention!'
+    autosells:
+      inventory-name: '&8AutoSells'
+      icon:
+        material: PLAYER_HEAD
+        head: 945f47feb4d75cb333914bfdb999a489c9d0e320d548f310419ad738d1e24b9
+        name: '&6&lAutomatic Sells'
+        lore:
+        - '&7Click here to see all related'
+        - '&7about automatic sells!'
+        - ''
+        - '&f&lFrequency&7: &e%frequency%&6s'
+        - '&f&lMultiplier&7: &e%multiplier%&6x'
+        - '&f&lTax&7: &e%tax%&6%'
+      moneyicon:
+        material: CHEST
+        head: ''
+        name: '&e&lClaim the money!'
+        lore:
+        - '&6Money: &a%money%&f$'
+      toggleicon:
+        on-status:
+          material: PLAYER_HEAD
+          head: 131a4fab2f87db54330136517b453aacb9d7c0fe784300709e9b109cbc514f00
+          name: '&6&lToggle AutoSells'
+          lore:
+          - '&7Status: &a&lON'
+        off-status:
+          material: PLAYER_HEAD
+          head: a5d53ef428b369fd5cce94ce205d0d2d7b095fad676a9b383971ee1049e367ad
+          name: '&6&lToggle AutoSells'
+          lore:
+          - '&7Status: &c&lOFF'
+      back:
+        material: PLAYER_HEAD
+        head: MHF_ArrowLeft
+        name: '&6&lBack'
+        lore:
+        - ''
+    search:
+      icon:
+        material: RECOVERY_COMPASS
+        head: ''
+        name: '&b&lSearch Item'
+        lore:
+        - '&7Click here to search for a specific item!'
+      sign-input:
+      - '%input%'
+      - =============
+      - Type the query
+      - above
