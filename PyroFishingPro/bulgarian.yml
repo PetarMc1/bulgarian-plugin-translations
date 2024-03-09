@@ -83,6 +83,205 @@ SeasonalEvents:
     AlreadyUsedOrb: '&7Вече e използвaно кълбо и следващият &cКоледен Рак&7 ще e босът.'
    Names:
     CRABMAS: Рачешка Коледа
+Augments:
+  Misc:
+    NoAugment: '&7Please use an Augment in the second slot instead of your current
+      item.'
+    AddedAugment: '&7You have added the Augment ''%augment%&7'' and it is now level
+      %color%%level%&7. %maxlevel%'
+    RemovalNoAugments: '&7There are no augments on your current item!'
+    AppliesTo:
+      FISHING_ROD: Fishing Rod
+    NoCraftingPermission: '&7You do not have &cpermission &7to craft %augment%&7.'
+    PerItem: '&7- %color%%amount%x %item%'
+    Lore:
+      Item: '&7» %color%%amount%x &7%item%'
+      Recipe:
+      - '%color%Crafting Recipe:'
+      - '%items%'
+      - ''
+      - '&7Drop these into a cauldron to craft!'
+    MaxLevelAdded: '&7(&bmax level&7)'
+    Cooldown: '&7You must wait at least &c1 second &7before doing this again.'
+    Entropy: '&7You cannot craft that item. You need &c%entropy%&7 more entropy.'
+    RemovedAugments: '&7You have removed all the augments from your current item.'
+    NoValidRecipe: '&7The items you have dropped do not match any valid augment recipe.'
+    Crafted: '&7You crafted %name% &7and spent &3%cost% &7entropy.'
+    RemoveEntropyOnApply:
+      Removed: '&7You have spent &b%entropy% &7to apply that augment.'
+      Failed: '&7You do not have enough entropy to add all of these augments. You
+        need at least &c%entropy% &7for this!'
+    NotHighEnoughLevel: '&7You are not a high enough level to craft that Augment.'
+    AugmentDisabled: '&7This augment has been disabled and cannot be crafted.'
+    OldRod: '&7Your rod is old and needs to be converted. Please catch a fish and
+      it should convert automatically for you.'
+    WrongType: '&7That augment cannot be applied to that item type!'
+    ConvertedRod: '&7The &6Augments &7on your rod have been converted into the new
+      system. You may now augment this rod again.'
+    CraftedAugment: '&7You have augmented %augment% &7with level &3%amount%.'
+    RemovalInvalidRod: '&7That is not a valid item that you can remove augments from.'
+    NotCraftable:
+    - '&cThis augment cannot be crafted.'
+    CheckForLevel: '&7You are not a high enough level to apply this augment onto your
+      fishing rod!'
+    AugmentMaxLevel: '&7That Augment is already max level.'
+    MoreThenOneRod: '&7You cannot have a stack of rods inside the augment menu. Unstack
+      them and try again.'
+    TooManyItems: '&7You have dropped too many items. Pick some up and try again.'
+    ApplyAugment: '&eUse /fish augment to apply this.'
+    CreativeMode: '&7You cannot craft augments in &ccreative mode&7.'
+    NotAugment: '&7That item is not a valid augment!'
+  MASTER_FISHERMAN:
+    Description:
+    - '&7Gives you a higher chance to catch'
+    - '&7better tiered fish. For the most'
+    - '&7dedicated fishers out there!'
+  SolarRage: '&7You earned &e$%money% &7bonus from your &eSolar Rage&7 augment.'
+  Recipe:
+    COBBLESTONE: Cobblestone
+    COD: Cod
+    LILY_PAD: Lily Pad
+    GOLD_BLOCK: Gold Block
+    BOOK: Book
+    IRON_BLOCK: Iron Block
+    OAK_BOAT: Oak Boat
+    IRON_AXE: Iron Axe
+    BAKED_POTATO: Baked Potato
+    GLASS: Glass
+    EMERALD_BLOCK: Emerald Block
+    SNOWBALL: Snowball
+    ANVIL: Anvil
+    GOLDEN_APPLE: Golden Apple
+    NAUTILUS_SHELL: Nautilus Shell
+    CAKE: Cake
+    GLISTERING_MELON_SLICE: Glistering Melon Slice
+    LAPIS_BLOCK: Lapis Block
+    HEART_OF_THE_SEA: Heart Of The Sea
+    DIAMOND_BLOCK: Diamond Block
+    GLOWSTONE: Glowstone
+    DIAMOND: Diamond
+    DIAMOND_SWORD: Diamond Sword
+    GHAST_TEAR: Ghast Tear
+    REDSTONE: Redstone
+    WATER_BUCKET: Water Bucket
+    OAK_LOG: Oak Log
+    SPONGE: Sponge
+    NETHER_STAR: Nether Star
+    WITHER_SKELETON_SKULL: Wither Skeleton Skull
+    GUNPOWDER: Gunpowder
+    COOKED_BEEF: Cooked Beef
+    SAND: Sand
+    EMERALD: Emerald
+    KELP: Kelp
+    STRING: String
+    SUGAR: Sugar
+    TURTLE_EGG: Turtle Egg
+  'True': 'true'
+  Colours:
+    BIOME_DISRUPTION: §2
+    CRAB_BAIT: §b
+    HOT_SPOT: §6
+    CALL_OF_THE_STORM: §9
+    SAGE: §2
+    PERCEPTION: §6
+    MASTER_FISHERMAN: §d
+    SOLAR_RAGE: §e
+    PRECISION_CUTTING: §c
+    SATURATE: §3
+    TROPHY: §e
+    INTELLECT: §a
+    SNOW_GLOBE: §b
+  Names:
+    BIOME_DISRUPTION: §2Biome Disruption
+    CALL_OF_THE_STORM: §9Call of the Storm
+    TROPHY: §eTrophy
+    CRAB_BAIT: §bCrab Bait
+    PERCEPTION: §6Perception
+    SOLAR_RAGE: §eSolar Rage
+    HOT_SPOT: §6Hot Spot
+    SAGE: §2Sage
+    PRECISION_CUTTING: §cPrecision Cutting
+    SNOW_GLOBE: §bSnow Globe
+    MASTER_FISHERMAN: §dMaster Fisherman
+    SATURATE: §3Saturate
+    INTELLECT: §aIntellect
+  PRECISION_CUTTING:
+    Description:
+    - '&7Gives you more entropy from gutting'
+    - '&7fish inside of the &c/fish gut &7station.'
+  HOT_SPOT:
+    Description:
+    - '&7Gives you a chance to catch multiple'
+    - '&7fish with a single cast of your rod.'
+    - '&7This only works when it is not raining.'
+  SATURATE:
+    Description:
+    - '&7Gives you a chance to refill your hunger'
+    - '&7when catching fish.'
+  SNOW_GLOBE:
+    Description:
+    - '&7Randomly creates a &fSnow Ring &7that'
+    - '&7gives bonus entropy and xp when'
+    - '&7fishing inside of it. Works for'
+    - '&7all players fishing inside it.'
+    Extra:
+    - ''
+    - '%color%Obtained from the Crabmas Event.'
+  CALL_OF_THE_STORM:
+    Description:
+    - '&7Gives you a chance to catch multiple'
+    - '&7fish with a single cast when it is'
+    - '&9raining&7. This does not work'
+    - '&7if it is not raining in your world.'
+  TROPHY:
+    Description:
+    - '&7Gives you a higher chance to profit'
+    - '&7when using the &e/fish scales&7 feature.'
+  CallOfTheStorm: '&7Your &9Call of the Storm &7gave you a chance to catch an extra
+    fish.'
+  BIOME_DISRUPTION:
+    Description:
+    - '&7Gives you a chance to catch fish from any'
+    - '&7biome when fishing. This does not apply to'
+    - '&7fish that have extra catch requirements.'
+  CRAB_BAIT:
+    Description:
+    - '&7Gives you a higher chance to catch'
+    - '&bCrabs &7when fishing.'
+  SAGE:
+    Description:
+    - '&7Gives you more &2Plugin XP&7 from'
+    - '&7catching fish. '
+  SOLAR_RAGE:
+    Description:
+    - '&7Increases the money you make from selling'
+    - '&7fish inside of the &e/fish shop&7.'
+  NewLore:
+  - '%description%'
+  - ''
+  - '%color%Augment Information:'
+  - '&7» Required Fishing Level: %color%%requiredlevel%'
+  - '&7» Entropy Cost:&8 %color%%cost%'
+  - '&7» Max Augment Level:&8 %color%%maxlevel%'
+  - '&7» Applied to:&8 %color%%type%'
+  - ''
+  - '%apply_augment%'
+  - '%craftable%'
+  - '%extra%'
+  - '%crafting_recipe%'
+  HotSpot: '&7Your &6Hot Spot &7gave you a chance to catch an extra fish.'
+  PrecisionCutting: '&7Your &cPrecision Cutting &7augment gave you &3%entropy% &7bonus
+    entropy from gutting.'
+  Saturate: '&7Your &3Saturate &7gave you some saturation.'
+  'False': 'false'
+  PERCEPTION:
+    Description:
+    - '&7Gives you more base entropy from'
+    - '&7catching custom fish.'
+  INTELLECT:
+    Description:
+    - '&7Gives you more &aPlayer XP &7from'
+    - '&7catching fish.'
 GUI:
   Codex:
     Misc:
@@ -143,6 +342,22 @@ GUI:
       Name: '&a&lСледваща Страница'
       Lore:
       - '&7Щракни= за да отидеш на следващата страница.'
+AugmentList:
+    Back:
+      Name: '&cНазад'
+      Lore:
+      - '&7Щракни за да се върнеш към главното меню.'
+    Info:
+      Lore:
+      - '&7Отдолу е лист с вички усилвания'
+      - '&7които са достъпни.'
+      - ''
+      - '&7За създаване на добавки. Пусни всички елементи в'
+      - '&bКазан &7и го натисни с &2Въдица&7.'
+      - ''
+      - '&7Ако играееш от Bedrock трябва'
+      - '&7да използваш &eДжойстик Контролите&7.'
+      Name: '&aИнформация за Увеличенията'
   Shop:
     SpecialFish:
       Name: '&a&lСпециална риба'
@@ -632,9 +847,9 @@ GUI:
   Augments:
     AcceptAugment:
       Lore:
-      - '&7Щракнi върху стъклото по-долу за да потвърдиш своето'
+      - '&7Щракни върху стъклото по-долу за да потвърдиш своето'
       - '&7увеличаване. Това ще погълне добавките.'
-      Name: '&a&lAccepting Augment'
+      Name: '&aИзползване на Увеличаване'
     Withdraw:
       Name: '&3Изтегляне на 10000 Entropy'
       Lore:
@@ -654,7 +869,7 @@ GUI:
       - ''
       - '&7За създаване на добавки. Пусни всички елементи в'
       - '&bКазан &7и го натисни с &2Въдица&7.'
-      - '&7Увери се че &bКазана &7има вода и ти използваш'
+      - '&7Увери се че &bКазана &7има вода и че ти използваш'
       - '&oточното &7количество на предмети когато ги изработвате.'
       - ''
       - '&7Ентропиен баланс: &b%entropy%'
@@ -678,7 +893,7 @@ GUI:
       - '&7слота по-долу за да го добавиш към твоята въдица.'
       Name: '&b&lУвеличение'
     Confirm:
-      Name: '&a&lПотвръждаване на Увеличаване'
+      Name: '&aПотвръждаване на Увеличаване'
     CancelAugment:
       Lore:
       - '&7Щракването върху стъклото отдолу ще отмени'
@@ -820,7 +1035,7 @@ GUI:
     NoRod:
       Lore:
       - '&7Не държиш видица.'
-      Name: '&4&Нямаш въдица'
+      Name: '&4&lНямаш въдица'
     Skills:
       Name: '&9&lУмения'
       Lore:
@@ -859,7 +1074,7 @@ GUI:
     Info:
       Lore:
       - '&7Построй структурата която е показана.'
-      - '&7Блоковете трябва са са&f&nТОЧНИ&r&7.'
+      - '&7Блоковете трябва са са &f&nТОЧНИ&r&7.'
       - ''
       - '&7Когато е построен натисни &f&nпървия'
       - '&7обзървър с &f&nвъдица&7.'
@@ -869,7 +1084,7 @@ GUI:
       - '&7си готов ще си имаш свой собстен &eТотем&7.'
       - ''
       - '&7&oПозволен е само един тотем на играч.'
-      Name: '&a&lИнформация'
+      Name: '&aИнформация'
   Gutting:
     GutForEntropy:
       Lore:
