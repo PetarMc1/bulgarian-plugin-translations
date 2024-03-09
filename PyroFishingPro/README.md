@@ -2,13 +2,13 @@
 The [english.yml](english.yml) is used to get the non translated things
 You can find the translated parts in the [bulgarian.yml](bulgarian.yml)
 Still not translated! / Още не е напълно преведен
-## EN How to use the translated version.
+## (EN) How to use the translated version.
 - Delete the messages.yml
 - Copy and paste the bulgarian.yml file into the main directory.
 - Rename it to 'messages.yml'
 - Restart the server
-- Good to go!
-## BG
+- Good to go :D
+## (BG) Как да използваш преведения файл
 - Изтрий messages.yml
 - Копирай и постави bulgarian.yml в главната папка на плъгина.
 - Преименувай го на 'messages.yml'
