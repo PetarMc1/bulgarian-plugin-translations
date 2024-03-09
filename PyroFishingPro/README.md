@@ -1,6 +1,6 @@
 # Pyro Fishing Pro
-The [english.yml](PyroFishingPro/english.yml) is used to get the non translated things
-You can find the translated parts in the [bulgarian.yml](PyroFishingPro/bulgarian.yml)
+The [english.yml](english.yml) is used to get the non translated things
+You can find the translated parts in the [bulgarian.yml](bulgarian.yml)
 Still not translated! / Още не е напълно преведен
 ## EN How to use the translated version.
 - Delete the messages.yml
