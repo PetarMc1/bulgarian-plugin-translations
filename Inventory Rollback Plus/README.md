@@ -15,3 +15,4 @@ Fully translated / Напълно преведен
 ## Links
 - [Download Link](https://www.spigotmc.org/resources/inventory-rollback-plus-1-8-1-20-x.85811/)
 - [Developer's Discord server](https://discord.gg/h7qJ9gRCwj)
+- [Developer's GitHub](https://github.com/TechnicallyCoded)
