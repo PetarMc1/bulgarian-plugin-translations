@@ -78,7 +78,7 @@ languages:
     without-perms-to-open: '&cYou do not have permissions&6!'
   gui:
     previouspage:
-      name: '&6&lPrevious page'
+      name: '&6&lPrevious page' 
       head: MHF_ArrowLeft
       material: PLAYER_HEAD
       lore:
