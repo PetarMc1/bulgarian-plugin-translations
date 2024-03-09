@@ -6,13 +6,13 @@ Still not translated! / Още не е напълно преведен
 - Delete the default `messages.yml`
 - Download and paste the [bulgarian.yml](bulgarian.yml) plugin folder.
 - Rename it to `messages.yml`
-- Restart the server
+- Restart the server or reload the plugin
 - Good to go :D
 ## (BG) Как да използваш преведения файл
 - Изтрий оригиналния `messages.yml`
 - Изтегли и постави [bulgarian.yml](bulgarian.yml) в главната папка на плъгина.
 - Преименувай го на `messages.yml`
-- Рестартирай сървъра
+- Рестартирай сървъра или презареди плъгина
 - Готов си :D
 ## Links / Линкове
 - [Pyro's Lab Discord server](https://discord.gg/pyro-s-lab-492655781087543297)
