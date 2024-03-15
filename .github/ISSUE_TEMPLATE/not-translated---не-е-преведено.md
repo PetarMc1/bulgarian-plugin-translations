@@ -9,4 +9,4 @@ assignees: ''
 
 Directory / Директория -
 Line / Ред -
-What is wrong / Какво е грешно -
+What is not translated / Какво не е преведено-
