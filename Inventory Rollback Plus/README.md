@@ -2,7 +2,7 @@
 Fully translated. / Напълно преведен.
 ## (EN) How to use the translated file
 - Deleate the original `messages.yml` file
-- Download the [messages.yml](messages.yml) from here
+- Download [messages.yml](messages.yml)
 - Put it in the plugin folder
 - Restart the server or reload the plugin
 - You are done :D
