@@ -2,7 +2,7 @@
 Fully translated / Напълно преведен
 ## (EN) How to use the translated file
 - Deleate the original `lang.yml` file
-- Download the [lang.yml](lang.yml) from here
+- Download [lang.yml](lang.yml)
 - Put it in the plugin folder
 - Restart the server or reload the plugin
 - You are done :D
@@ -13,5 +13,5 @@ Fully translated / Напълно преведен
 - Рестартирай сървъра или презареди плъгина
 - Готов си :)
 ## Links / Линкове
-- [Downalad Link](https://www.spigotmc.org/resources/playervaults.9228/)
+- [Download Link](https://www.spigotmc.org/resources/playervaults.9228/)
 - [Discord server](https://discord.gg/PHpuzZS)
